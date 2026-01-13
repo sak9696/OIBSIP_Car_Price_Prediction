@@ -70,3 +70,6 @@ The model successfully predicts car prices with good accuracy and demonstrates h
 
 ---
 
+## 🙋‍♀️ Author
+ - Sakashi Jadhav
+ - Third Year Engineering Student | Data Analyst Intern
