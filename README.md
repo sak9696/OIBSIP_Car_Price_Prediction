@@ -71,5 +71,5 @@ The model successfully predicts car prices with good accuracy and demonstrates h
 ---
 
 ## 🙋‍♀️ Author
- - Sakashi Jadhav
+ - Sakshi Jadhav
  - Third Year Engineering Student | Data Analyst Intern
